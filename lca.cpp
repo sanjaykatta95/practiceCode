@@ -55,7 +55,7 @@ int main()
     cout << "\nLCA(4, 6) = " << findLCA(root, 4, 6);
     cout << "\nLCA(3, 4) = " << findLCA(root, 3, 4);
     cout << "\nLCA(2, 4) = " << findLCA(root, 2, 4);
-    cout<<"whole new changes in practiceCodeOutlook"<<endl;
+    cout<<"whole new changes in teradata practice"<<endl;
     return 0;
 }
 

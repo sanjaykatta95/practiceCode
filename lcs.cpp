@@ -31,7 +31,12 @@ int main()
   int n = strlen(Y);
   
   printf("Length of LCS is %d\n", lcs( X, Y, m, n ) );
+
   cout << "testing mergin"<<endl;
+
+
+
+
  
 return 0;
 }

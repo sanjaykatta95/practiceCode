@@ -31,6 +31,8 @@ int main()
   int n = strlen(Y);
   
   printf("Length of LCS is %d\n", lcs( X, Y, m, n ) );
+  
+  cout<<"mergin testing"<<endl;
  
 return 0;
 }

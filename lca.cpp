@@ -57,6 +57,5 @@ int main()
     cout << "\nLCA(2, 4) = " << findLCA(root, 2, 4);
     cout<<"end"<<endl;
     return 0;
-return 0;
 }
 
